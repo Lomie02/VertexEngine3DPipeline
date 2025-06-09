@@ -1,6 +1,5 @@
 #include <Camera.h>
 #include <GameObject.h>
-
 int main() {
 
 	GameObject* Camera = new GameObject("Camera");
